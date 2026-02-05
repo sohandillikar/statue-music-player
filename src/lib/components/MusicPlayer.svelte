@@ -50,7 +50,6 @@
     audio.src = track.src;
     currentTime = 0;
     duration = 0;
-    isPlaying = false;
 
     /** @type {(() => void) | undefined} */
     /** @type {((this: HTMLAudioElement, ev: Event) => void) | undefined} */
