@@ -15,7 +15,7 @@
 >
   <PageHero
     title="Music"
-    description="Place MP3 files in static/music/ and update the track in src/routes/music/+page.server.js"
+    description="Here's a playlist of some of my favorite songs."
   />
 
   <div class="container mx-auto px-4 pb-32">
